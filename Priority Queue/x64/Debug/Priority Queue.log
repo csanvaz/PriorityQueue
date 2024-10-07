@@ -1,0 +1,14 @@
+﻿  Priority Queue.cpp
+D:\UIC 2022-2023\CS 251\Priority Queues\Priority Queue\Priority Queue\priorityqueue.h(270,18): warning C4553: '==': result of expression not used; did you intend '='?
+D:\UIC 2022-2023\CS 251\Priority Queues\Priority Queue\Priority Queue\priorityqueue.h(252,1): message : while compiling class template member function 'T priorityqueue<T>::dequeue(void)'
+          with
+          [
+              T=std::string
+          ]
+D:\UIC 2022-2023\CS 251\Priority Queues\Priority Queue\Priority Queue\Priority Queue.cpp(86,14): message : see reference to function template instantiation 'T priorityqueue<T>::dequeue(void)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\UIC 2022-2023\CS 251\Priority Queues\Priority Queue\Priority Queue\Priority Queue.cpp(14,25): message : see reference to class template instantiation 'priorityqueue<std::string>' being compiled
+  Priority Queue.vcxproj -> D:\UIC 2022-2023\CS 251\Priority Queues\Priority Queue\x64\Debug\Priority Queue.exe
